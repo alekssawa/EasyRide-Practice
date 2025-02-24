@@ -1,3 +1,3 @@
 # EasyRide-Practice
 
-https://github.com/alekssawa/EasyRide2.local
+![EasyRide](https://github.com/alekssawa/EasyRide2.local)
